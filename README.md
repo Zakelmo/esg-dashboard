@@ -2,7 +2,7 @@
 
 A comprehensive, professional-grade ESG (Environmental, Social, Governance) analytics dashboard built with Python and Streamlit. This advanced tool analyzes, visualizes, and predicts ESG performance metrics, helping investors, analysts, and sustainability professionals make data-driven decisions.
 
-Dashboard Preview: https://esg-dashboards.streamlit.app
+Dashboard Preview: https://esg2.smartdeploy.net
 
 ## ✨ Enhanced Features
 
